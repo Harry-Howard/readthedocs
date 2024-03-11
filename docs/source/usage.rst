@@ -21,16 +21,17 @@ If you get an error stating JSO Object please make sure to use **Pub Upgrade** t
 
 How to Use Study Hive!
 
+please make sure the application is running on your supposed device **either Chrome, Edge or Android Devices**
 ----------------
 
 ---You will get given a login screen on Launch where you will need to input an email and password
 --- If you **DO NOT** have an account please make sure you register and input your details into the box. (Any errors will be raised as an exception) 
 
-.. autoexception:: lumache.InvalidKindError
 
-For example:
+Example on how to run study hive
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+>>> pub get
+>>> pub update 
+>>> Running Debug Service From Chrome
+>>> Application Opens 
 
