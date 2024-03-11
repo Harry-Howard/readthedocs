@@ -6,23 +6,25 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use Study Hive , first ensure you have Flutter and Dart installed 
 
-.. code-block:: console
+for any advice with this please visit 
 
-   (.venv) $ pip install lumache
+https://dart.dev/get-dart  - For Dart Installation
 
-Creating recipes
+https://docs.flutter.dev/get-started/install - For Flutter
+
+
+Please make sure you use pubget on the pubspec.yaml to insure all depednecies are running.
+If you get an error stating JSO Object please make sure to use **Pub Upgrade** to make sure all dependicies are updated.
+
+
+How to Use Study Hive!
+
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+---You will get given a login screen on Launch where you will need to input an email and password
+--- If you **DO NOT** have an account please make sure you register and input your details into the box. (Any errors will be raised as an exception) 
 
 .. autoexception:: lumache.InvalidKindError
 
