@@ -14,9 +14,11 @@ how to install and run our application!
    This project is under active development and is subject to change!
 
 Please click on any of the links to go to any of the pages! 
- The user requirements :doc:`Requirements`
+ -The user requirements :doc:`Requirements`
 
- What we implemented
- HOW to RUN
- What are the main features
+ -What we implemented
+
+ -HOW to RUN
+
+- What are the main features
  Anything Else  that may be relevant! 
