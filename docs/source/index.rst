@@ -6,7 +6,7 @@ Users are able to connect their
 Data is collected and generated to other uses via our Firebase database!, which is a cloud database. 
 
 
-Check out the **:doc:`usage`** section for further information, including
+Check out the :doc:`usage` section for further information, including
 how to install and run our application! 
 
 .. note::
