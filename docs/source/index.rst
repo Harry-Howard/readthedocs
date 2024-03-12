@@ -23,4 +23,4 @@ Please click on any of the links to go to any of the pages!
 
  - HOW to RUN
 
-- What are the main features?
+ - What are the main features?
