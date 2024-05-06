@@ -1,6 +1,6 @@
 What we Implemented
 ============================================
-Based on our user requirements that are found here :doc:'Requirements'
+Based on our user requirements that are found here :doc:`Requirements`
 
 We have implemented the following features onto our study hive application.
 
