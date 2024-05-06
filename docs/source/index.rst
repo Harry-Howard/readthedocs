@@ -19,8 +19,8 @@ Please click on any of the links to go to any of the pages!
 
  - The user requirements :doc:`Requirements`
 
- - What we implemented :doc:'Implementation'
+ - What we implemented :doc:`Implementation`
 
- - HOW to RUN :doc:'usage'
+ - HOW to RUN :doc:`usage`
 
  
