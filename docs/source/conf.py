@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Study Hive'
+copyright = 'Team5B 2024'
+author = 'Team 5B'
 
 release = '0.1'
 version = '0.1.0'
