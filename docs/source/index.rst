@@ -21,6 +21,6 @@ Please click on any of the links to go to any of the pages!
 
  - What we implemented :doc:'Implementation'
 
- - HOW to RUN
+ - HOW to RUN :doc:'usage'
 
- - What are the main features?
+ 
