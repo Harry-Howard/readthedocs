@@ -21,7 +21,7 @@ If you get an error stating JSO Object please make sure to use **Pub Upgrade** t
 
 How to Use Study Hive!
 
-please make sure the application is running on your supposed device **either Chrome, Edge or Android Devices**
+please make sure the application is running on a device that supports **Chrome, Edge or other browsers!**
 ----------------
 
 ---You will get given a login screen on Launch where you will need to input an email and password
