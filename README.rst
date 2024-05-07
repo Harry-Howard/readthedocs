@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Study Hive Doccumentation.
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This is the doccumentation for our study hive application!
 
-Read the tutorial here:
+In short study hive is a social application that allows users to connect and share study materials as well as talk to one and another!
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Created by Team 5B
